@@ -1,4 +1,4 @@
-# Coupon Management System — Assignment B
+# Coupon Management System
 
 A backend service for managing e-commerce coupons.  
 The system allows creating coupons with detailed eligibility rules and provides an API that returns the **best applicable coupon** for a given user + cart input.  
